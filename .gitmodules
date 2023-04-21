@@ -1,0 +1,6 @@
+[submodule "la-mediatheque-nextjs"]
+	path = la-mediatheque-nextjs
+	url = https://github.com/Luderic67/la-mediatheque-nextjs
+[submodule "la-mediatheque-laravel"]
+	path = la-mediatheque-laravel
+	url = https://github.com/Luderic67/la-mediatheque-laravel
